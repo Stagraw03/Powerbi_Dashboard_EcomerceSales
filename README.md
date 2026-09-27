@@ -69,4 +69,4 @@ Add customer segmentation.
 Add conversion funnel analysis.
 Add interactive slicers and drill-through pages.
 
-Dashboard_Screenshot
+Dashboard_Screenshot: Snapshot_Powerbi_Dashboard.png
